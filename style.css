@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.red-color {
+    color: red;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 450px;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 400px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 5px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+top-banner {
+    background-image: url(top-banner.png);
+}
